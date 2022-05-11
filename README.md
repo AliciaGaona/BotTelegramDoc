@@ -36,8 +36,7 @@ Y crea un archivo bot.js, en este archivo estarán las referencias
 
 Propiedades de msg de bot de telegram
 
-![image](https://user-images.githubusercontent.com/99162884/167801977-dbdc87bb-a7ae-48cc-af9b-87601f35b8a0.png)
-
+![image](https://user-images.githubusercontent.com/99162884/167802471-a88eaf00-3d07-4940-914a-5129c0f973b0.png)
 
 
 
