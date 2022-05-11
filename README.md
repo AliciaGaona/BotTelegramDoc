@@ -25,6 +25,9 @@ Algo asi se vera:
 
 Start para comenzar
 
+![image](https://user-images.githubusercontent.com/99162884/167802208-846bb878-81fa-4cdf-aff9-68da3d57d515.png)
+
+
 Instala la dependencia: npm install node-telegram-bot-api --save
 Crea un nuevo script llamado lib/bot.js
 Modifica tu package.json , dentro de scripts agrega: "bot": "node ./lib/bot.js"
